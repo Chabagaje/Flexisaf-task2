@@ -1,3 +1,22 @@
+*{
+border : 0px;
+padding: 0px;
+}
+
+#top{
+ color:#081736;
+ font-weight: bold;
+}
+
+#s{
+ color: yellow;
+ font-weight: bold;
+}
+#sp{
+ color: #081736;
+ font-weight: bold;
+}
+
  .flex-containner{
     background-color: #1E90FF;
     display: flex;
@@ -318,4 +337,5 @@
 a{
     text-decoration: none;
 }
+
 
