@@ -21,7 +21,7 @@ padding: 0px;
     background-color: #1E90FF;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
     width: 80%;
@@ -337,6 +337,7 @@ padding: 0px;
 a{
     text-decoration: none;
 }
+
 
 
 
